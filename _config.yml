@@ -79,7 +79,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "I'm Yinghui Huang，<br> welcome to my world."
-sidebar-avatar: https://github.com/YingHuiH/HYH/tree/dependabot/npm_and_yarn/websocket-extensions-0.1.4/img/avatar_hyh.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: "https://github.com/YingHuiH/HYH/blob/dependabot/npm_and_yarn/websocket-extensions-0.1.4/img/avatar_hyh.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
