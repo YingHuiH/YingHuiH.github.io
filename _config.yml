@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: erinthree.h@gmail.com
 description: "Yinghui"
 keyword: "    "
-#url:  "https://yinghuih.github.io/"              # your host, for absolute URL
+url:  "https://yinghuih.github.io/HYH/"              # your host, for absolute URL
 baseurl:  ""  #archive/                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
