@@ -6,7 +6,7 @@ email: erinthree.h@gmail.com
 description: "Yinghui"
 keyword: "    "
 url:  "https://yinghuih.github.io/"              # your host, for absolute URL
-baseurl:  "HYH/"  #archive/                             # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl:  ""  #archive/                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
