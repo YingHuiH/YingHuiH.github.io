@@ -80,8 +80,7 @@ netease_comment: false
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "I'm Yinghui Huang，<br> welcome to my world."
 sidebar-avatar: avatar_hyh.jpg
-#sidebar-avatar: avatar_hyh.jpg  
-## 调整 includes文件夹里 short-about.html 文件 #<img src="https://github.com/YingHuiH/HYH/tree/dependabot/npm_and_yarn/websocket-extensions-0.1.4/img/avatar_hyh.jpg"  alt="hyh" />       # use absolute URL, seeing it's used in both `/` and `/about/`
+## 调整 includes文件夹里 short-about.html 文件 原本是因为有baseurl，但是好像不太行，就把图片文件从img文件夹下移动到和index文件夹一个文件夹下，这样图片就可以显示了，用https地址好像也没法正常显示 #<img src="https://github.com/YingHuiH/HYH/tree/dependabot/npm_and_yarn/websocket-extensions-0.1.4/img/avatar_hyh.jpg"  alt="hyh" />       # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
