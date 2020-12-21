@@ -5,9 +5,137 @@
     <description>Yinghui</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 19 Dec 2020 23:37:31 +0800</pubDate>
-    <lastBuildDate>Sat, 19 Dec 2020 23:37:31 +0800</lastBuildDate>
+    <pubDate>Tue, 22 Dec 2020 00:20:52 +0800</pubDate>
+    <lastBuildDate>Tue, 22 Dec 2020 00:20:52 +0800</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Paper Notes - Template </title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;“施工进度：0%”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p id=&quot;0&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;contents&quot;&gt;Contents&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;#1&quot;&gt;Summary&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#2&quot;&gt;Research Objectives&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#3&quot;&gt;Background and Problems&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#4&quot;&gt;Method&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#5&quot;&gt;Evaluation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#6&quot;&gt;Conclusion&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#7&quot;&gt;Notes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;h2 id=&quot;references&quot;&gt;&lt;a href=&quot;#8&quot;&gt;References&lt;/a&gt;&lt;/h2&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;1&quot;&gt;1. Summary&lt;/h3&gt;
+
+&lt;p&gt;看我的另一篇&lt;a href=&quot;http://127.0.0.1:4000/2018/03/23/MLAPP-Notes/&quot;&gt;笔记&lt;/a&gt; 注意里面的127.0.0.1:4000 是host地址，如果启动blog的时候不是4000，可能会出错&lt;/p&gt;
+&lt;font color=&quot;red&quot;&gt; privately &lt;/font&gt;
+
+&lt;p&gt;&lt;a href=&quot;#0&quot;&gt;返回&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;2&quot;&gt;2. Research Objectives&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;#0&quot;&gt;返回&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;3&quot;&gt;3. Background and Problems&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;#0&quot;&gt;返回&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;4&quot;&gt;4. Method&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;#0&quot;&gt;返回&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;5&quot;&gt;5. Evaluation&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;#0&quot;&gt;返回&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;6&quot;&gt;6. Conclusion&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;#0&quot;&gt;返回&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;7&quot;&gt;7. Notes&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;#0&quot;&gt;返回&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;8&quot;&gt;8. References&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;#0&quot;&gt;返回&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 26 Feb 2020 06:00:00 +0800</pubDate>
+        <link>/2020/02/26/PaperNotes_Templete/</link>
+        <guid isPermaLink="true">/2020/02/26/PaperNotes_Templete/</guid>
+        
+        <category>Paper Reading</category>
+        
+        <category>模板</category>
+        
+        <category>使用手册</category>
+        
+        <category>其他</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>测试目录</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;“施工进度：0%”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;看我的另一篇&lt;a href=&quot;http://127.0.0.1:4000/2018/03/23/MLAPP-Notes/&quot;&gt;笔记&lt;/a&gt; 注意里面的127.0.0.1:4000 是host地址，如果启动blog的时候不是4000，可能会出错&lt;/p&gt;
+&lt;font color=&quot;red&quot;&gt; privately &lt;/font&gt;
+
+&lt;h2 id=&quot;research-objectives&quot;&gt;Research Objectives&lt;/h2&gt;
+
+&lt;p&gt;asfasdf&lt;/p&gt;
+
+&lt;h2 id=&quot;background-and-problems&quot;&gt;Background and Problems&lt;/h2&gt;
+
+&lt;p&gt;asfasdf&lt;/p&gt;
+
+&lt;h4 id=&quot;background&quot;&gt;Background&lt;/h4&gt;
+
+&lt;h4 id=&quot;problem-formulation&quot;&gt;Problem Formulation&lt;/h4&gt;
+
+&lt;h2 id=&quot;method&quot;&gt;Method&lt;/h2&gt;
+
+&lt;p&gt;asfasdf&lt;/p&gt;
+
+&lt;h2 id=&quot;evaluation&quot;&gt;Evaluation&lt;/h2&gt;
+
+&lt;p&gt;asfasdf&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;asfasdf&lt;/p&gt;
+
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;/h2&gt;
+
+&lt;p&gt;asfasdf&lt;/p&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+
+&lt;p&gt;asfasdf&lt;/p&gt;
+</description>
+        <pubDate>Wed, 12 Jul 2017 20:00:00 +0800</pubDate>
+        <link>/2017/07/12/PaperNotes_Templete_withCatelog/</link>
+        <guid isPermaLink="true">/2017/07/12/PaperNotes_Templete_withCatelog/</guid>
+        
+        <category>模板</category>
+        
+        <category>使用手册</category>
+        
+        <category>其他</category>
+        
+        
+      </item>
     
   </channel>
 </rss>

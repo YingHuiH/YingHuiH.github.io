@@ -11,16 +11,16 @@
     <meta name="theme-color" content="#000000">
     
     <!-- Open Graph -->
-    <meta property="og:title" content="Blog - ♥ Yinghui.H ♥">
+    <meta property="og:title" content="Archive - Yinghui.H">
     
     <meta property="og:type" content="website">
     <meta property="og:description" content="keep hungry keep foolish">
     
-    <meta property="og:image" content="/img/avatar-hyh.jpg">
+    <meta property="og:image" content="avatar_hyh.jpg">
     <meta property="og:url" content="/archive/">
-    <meta property="og:site_name" content="♥ Yinghui.H ♥">
+    <meta property="og:site_name" content="Yinghui.H">
     
-    <title>Blog - ♥ Yinghui.H ♥</title>
+    <title>Archive - Yinghui.H</title>
 
     <!-- Web App Manifest -->
     <link rel="manifest" href="/pwa/manifest.json">
@@ -92,7 +92,7 @@
                     
                     
                     <li>
-                        <a href="/archive/">Blog</a>
+                        <a href="/archive/">Archive</a>
                     </li>
                     
                     
@@ -182,7 +182,7 @@ https://github.com/kitian616/jekyll-TeXt-theme
         
         <div class="site-heading" id="tag-heading">
         
-          <h1>Blog</h1>
+          <h1>Archive</h1>
           <span class="subheading">keep hungry keep foolish</span>
         </div>
       </div>
@@ -199,17 +199,79 @@ https://github.com/kitian616/jekyll-TeXt-theme
 			<div id='tag_cloud' class="tags tags-sup js-tags">
 				<a class="tag-button--all" data-encode="">
 					Show All
-					<sup>0</sup>
+					<sup>2</sup>
 				</a>
 
 				
         
 				
 				
+				
+				<a data-sort="0000"
+					data-encode="%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C"
+					class="tag-button"
+					title="使用手册" rel="2">
+					使用手册
+					<sup>2</sup>
+				</a>
+				
+				<a data-sort="0000"
+					data-encode="%E5%85%B6%E4%BB%96"
+					class="tag-button"
+					title="其他" rel="2">
+					其他
+					<sup>2</sup>
+				</a>
+				
+				<a data-sort="0000"
+					data-encode="%E6%A8%A1%E6%9D%BF"
+					class="tag-button"
+					title="模板" rel="2">
+					模板
+					<sup>2</sup>
+				</a>
+				
+				<a data-sort="0001"
+					data-encode="Paper+Reading"
+					class="tag-button"
+					title="Paper Reading" rel="1">
+					Paper Reading
+					<sup>1</sup>
+				</a>
 			</div>
 
             <!-- Article List -->
-			<div class="mini-post-list js-result d-none">
+			<div class="mini-post-list js-result d-none"><section>
+				<span class="fa listing-seperator">
+					<span class="tag-text">2020</span>
+				</span><div class="post-preview item" data-tags="Paper+Reading,%E6%A8%A1%E6%9D%BF,%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C,%E5%85%B6%E4%BB%96">
+				    <a href="/2020/02/26/PaperNotes_Templete/">
+				        <h2 class="post-title">
+                            Paper Notes - Template 
+				        </h2>
+				        
+				        <h3 class="post-subtitle">
+				             Author and short commend 
+				        </h3>
+				        
+				    </a>
+					<hr>
+				</div></section><section>
+				<span class="fa listing-seperator">
+					<span class="tag-text">2017</span>
+				</span><div class="post-preview item" data-tags="%E6%A8%A1%E6%9D%BF,%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C,%E5%85%B6%E4%BB%96">
+				    <a href="/2017/07/12/PaperNotes_Templete_withCatelog/">
+				        <h2 class="post-title">
+                            测试目录
+				        </h2>
+				        
+				        <h3 class="post-subtitle">
+				            这是一个模板（Chn+Eng）
+				        </h3>
+				        
+				    </a>
+					<hr>
+				</div></section>
 		</div>
 	</div>
 </div>
@@ -301,6 +363,18 @@ https://github.com/kitian616/jekyll-TeXt-theme
 
 
 
+
+<!-- jquery.tagcloud.js -->
+<script>
+    async('/js/jquery.tagcloud.js', function () {
+        $.fn.tagcloud.defaults = {
+            //size: {start: 1, end: 1, unit: 'em'},
+            color: { start: '#bbbbee', end: '#2f93b4' },
+        };
+        $('#tag_cloud a').tagcloud();
+    })
+</script>
+<script src='/js/archive.js '></script>
 
 
 <!--fastClick.js -->
