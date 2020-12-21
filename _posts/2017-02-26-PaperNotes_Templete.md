@@ -29,7 +29,7 @@ tags:
 
 <h3 id="1">1. Summary</h3>
 
-
+看我的另一篇[笔记](http://127.0.0.1:4000/2018/03/23/MLAPP-Notes/) 注意里面的127.0.0.1:4000 是host地址，如果启动blog的时候不是4000，可能会出错
 <font color='red'> privately </font>   
 
 [返回](#0)

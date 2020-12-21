@@ -5,8 +5,8 @@
     <description>Yinghui</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 22 Dec 2020 01:47:09 +0800</pubDate>
-    <lastBuildDate>Tue, 22 Dec 2020 01:47:09 +0800</lastBuildDate>
+    <pubDate>Tue, 22 Dec 2020 01:54:51 +0800</pubDate>
+    <lastBuildDate>Tue, 22 Dec 2020 01:54:51 +0800</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -33,6 +33,7 @@
 
 &lt;h3 id=&quot;1&quot;&gt;1. Summary&lt;/h3&gt;
 
+&lt;p&gt;看我的另一篇&lt;a href=&quot;http://127.0.0.1:4000/2018/03/23/MLAPP-Notes/&quot;&gt;笔记&lt;/a&gt; 注意里面的127.0.0.1:4000 是host地址，如果启动blog的时候不是4000，可能会出错&lt;/p&gt;
 &lt;font color=&quot;red&quot;&gt; privately &lt;/font&gt;
 
 &lt;p&gt;&lt;a href=&quot;#0&quot;&gt;返回&lt;/a&gt;&lt;/p&gt;
