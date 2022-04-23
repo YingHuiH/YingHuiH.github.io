@@ -1,8 +1,8 @@
 # Site settings
-title: Yinghui.H
-SEOTitle: Yinghui.H 
+title: Yinghui.HUANG
+SEOTitle: Yinghui HUANG 
 header-img: img/home-bg.jpg
-email: erinthree.h@gmail.com
+email: erinhyh@foxmail.com
 description: "Yinghui"
 keyword: "    "
 # url:  "https://yinghuih.github.io/HYH/"              # your host, for absolute URL
@@ -59,7 +59,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: Yinghui
+disqus_username: YinghuiH
 
 # Netease settings
 netease_comment: false
@@ -71,14 +71,14 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-#ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-#ga_domain: yinghui.me
+#ga_track_id: 'G-P3BS5QNV8R'            # Format: UA-xxxxxx-xx
+#ga_domain: auto
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "I'm Yinghui Huang，<br> welcome to my world."
+sidebar-about-description: "I'm Yinghui Huang，<br> nice to meet you!"
 sidebar-avatar: avatar_hyh.jpg
 ## 调整 includes文件夹里 short-about.html 文件 原本是因为有baseurl，但是好像不太行，就把图片文件从img文件夹下移动到和index文件夹一个文件夹下，这样图片就可以显示了，用https地址好像也没法正常显示 #<img src="https://github.com/YingHuiH/HYH/tree/dependabot/npm_and_yarn/websocket-extensions-0.1.4/img/avatar_hyh.jpg"  alt="hyh" />       # use absolute URL, seeing it's used in both `/` and `/about/`
 

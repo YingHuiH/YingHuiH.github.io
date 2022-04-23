@@ -1,0 +1,18 @@
+---
+layout:       post
+title:      "Efficient detection of environmental violators: A big data approach"
+subtitle:   "Production and Operations Management, 2021"
+date:       2022-04-20 00:00:00
+author:     " "
+header-img: "img/post-56.jpg"
+catalog:      true
+tags:
+    - Publication
+---
+
+[Online version](https://onlinelibrary.wiley.com/doi/full/10.1111/poms.13272?casa_token=kfkFIxx6ikIAAAAA%3AoVQYCvXOGhO4ZQHPYOat1Jhw1tfHwAEqk04cbBrfOnuxKaU-5P6M3VIacSiWfSdfYa3zPXIzvPG6We5N9Q)
+
+The detection of environmental violators is critical to the long-term adoption of sustainability in supply chain management. However, there exist manufacturing facilities that report false environmental monitoring data, thereby seriously hampering governments’ efforts to identify true offenders and to properly intervene. We integrate waste gas data from the world’s largest Continuous Emission Monitoring System (CEMS) with a publicly available Violation and Punishment Dataset (VPD) to build prediction models for the identification of environmental violators. We utilize and create innovative machine learning approaches to overcome analytical challenges associated with empirical data. First, we use a feature engineering approach to generate features from the raw, and possibly fraudulent, reporting data. This overcomes the challenges associated with low fidelity, irregularity, and the presence of extreme values in the raw dataset. Second, while building prediction models, we develop new approaches to positive and unlabeled learning to overcome the challenges posed by sparsity and mislabeled data. Our prediction model achieves satisfactory results in a related field test. Our study develops new techniques for big data analytics, which greatly improve the efficiency and effectiveness in detection of environmental violators and enhance operational outcomes of environmental protection agencies. This research is a joint effort between academia and practitioners, as evidenced by the participation of the Ministry of Ecology and Environment of People’s Republic of China. The Ministry kindly granted us direct data access, as well as opportunities to interview Subject Matter Experts at the Ministry, which led to research insights incorporated in this manuscript. Our research findings have global implications, as CEMS devices are universally adopted to monitor waste gas emissions.
+
+
+
