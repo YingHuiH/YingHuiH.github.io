@@ -1,10 +1,10 @@
 
 #### Education
 
-- Sept.2018 - July.2022 (expected)
-	* Ph.D Candidate in Industrial Engineering and Decision Analytics, School of Engineering, Hong Kong University of Science and Technology
+- Sept.2018 - July.2022
+	* Ph.D.  Hong Kong University of Science and Technology
 - Sept.2012 - Jun.2018 
-	* M.S., B.S., Management Science, School of Management, Xi'an Jiaotong University
+	* M.S., B.S.,  Xi'an Jiaotong University
 
 
 #### Research Interests
