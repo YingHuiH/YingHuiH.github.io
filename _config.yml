@@ -1,137 +1,57 @@
-# Site settings
-title: Yinghui.HUANG
-SEOTitle: Yinghui HUANG 
-header-img: img/home-bg.jpg
-email: erinhyh@foxmail.com
-description: "Yinghui"
-keyword: "    "
-# url:  "https://yinghuih.github.io/HYH/"              # your host, for absolute URL
-# baseurl:  ""  #archive/                             # for example, '/blog' if your blog hosted on 'host/blog'
+# Basic Information 
+title: Your Name
+position: Ph.D. Student
+affiliation: Your Affiliation
+email: yourname (at) example.edu
 
-# Publish posts or collection documents with a future date.
-future: true
+# Search Engine Optimization (SEO)
+# The following information is used to improve the website traffic from search engines, e.g., Google.
+keywords: minimal light
+description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+canonical: https://minimal-light-theme.yliu.me/
 
-# SNS settings
-RSS: false
-#weibo_username:     Yinghui
-#zhihu_username:     
-#github_username:    
-#twitter_username:   
-#facebook_username:  
-#linkedin_username:  firstname-lastname-idxxxx
+# Links 
+# If you don't need one of them, you may delete the corresponding line.
+google_scholar: https://scholar.google.com/
+cv_link: assets/files/curriculum_vitae.pdf
+github_link: https://github.com/
+linkedin: https://www.linkedin.com/
+twitter: https://twitter.com/
 
+# Images (e.g., your profile picture and your website's favicon) 
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+avatar: ./assets/img/avatar.png
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
 
+# Footnote
+# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
+enable_footnote: true
 
-# Build settings
-# from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
-highlighter: rouge
-permalink: pretty
-paginate: 10
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
-anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
-# If you have timezone issue (e.g. #68) in China, uncomment to use this:
-#timezone: CN  
+# Auto Dark Mode
+# You may use the option to disable the automatic dark theme
+auto_dark_mode: true
 
+# Font
+# You can use this option to choose between Serif or Sans Serif fonts.
+font: "Serif" # or "Sans Serif"
 
+# Google Analytics ID
+# Please remove this if you don't use Google Analytics
+google_analytics: UA-111540567-4
 
-# Gems
-# from PR#40, to support local preview for Jekyll 3.0
-# make sure you have this gem installed
-# `$ gem install jekyll-paginate`
-plugins: [jekyll-paginate]
+# Use this project as a remote theme for GitHub Pages
+# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
+remote_theme: yaoyao-liu/minimal-light
 
-
-
-# Markdown settings
-# replace redcarpet to kramdown,
-# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
-# document: http://jekyllrb.com/docs/configuration/#kramdown
-markdown: kramdown
-kramdown:
-  input: GFM                            # use Github Flavored Markdown !important
-  syntax_highlighter_opts:
-    span:
-      line_numbers: false
-    block:
-      line_numbers: true
-      start_line: 1
-
-
-
-# Disqus settings
-disqus_username: YinghuiH
-
-# Netease settings
-netease_comment: false
-
-
-
-# Analytics settings
-# Baidu Analytics 
-# ba_track_id: [your track id]
-
-# Google Analytics
-#ga_track_id: 'G-P3BS5QNV8R'            # Format: UA-xxxxxx-xx
-#ga_domain: auto
-
-
-
-# Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "I'm Yinghui Huang，<br> nice to meet you!"
-sidebar-avatar: avatar_hyh.jpg
-## 调整 includes文件夹里 short-about.html 文件 原本是因为有baseurl，但是好像不太行，就把图片文件从img文件夹下移动到和index文件夹一个文件夹下，这样图片就可以显示了，用https地址好像也没法正常显示 #<img src="https://github.com/YingHuiH/HYH/tree/dependabot/npm_and_yarn/websocket-extensions-0.1.4/img/avatar_hyh.jpg"  alt="hyh" />       # use absolute URL, seeing it's used in both `/` and `/about/`
-
-
-
-# Featured Tags
-featured-tags: true                     # whether or not using Feature-Tags
-featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
-
-
-
-# Progressive Web Apps
-chrome-tab-theme-color: "#000000"
-service-worker: true
-
-
-
-# MathJax rendering for layout:page (e.g. post preview)
-page-mathjax: false
-
-
-
-# Friends
-#friends: [
-#    {
-#    #     title: "Su",
-#    #     href: "http://su.gallery/"
-#    # },{
-#        title: "乱序",
-#        href: "http://mida.re/"
-#    },{
-#        title: "Sherry Wu",
-#        href: "https://xuechundesign.github.io"
-#    },{
-#        title: "Luke 的自留地",
-#        href: "http://hmqk1995.github.io"
-#    },{
-#        title: "Ebn's Blog",
-#        href: "http://ebnbin.com/"
-#    },{
-#        title: "SmdCn's Blog",
-#        href: "http://blog.smdcn.net"
-#    },{
-#        title: "JiyinYiyong",
-#        href: "http://tiye.me/"
-#    },{
-#        title: "David's Game",
-#        href: "https://www.ruoyaowu.com/"
-#    },{
-#        title: "DHong Say",
-#        href: "http://dhong.co"
-#    },{
-#        title: "尹峰以为",
-#        href: "http://ingf.github.io/"
-#    }
-#]
+# The following files will be removed from the generated website.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - README_zh_Hans.md
+  - README_zh_Hant.md
+  - README_de.md
+  - LICENSE
+  - minimal-light.gemspec
+  - html_source_file/
